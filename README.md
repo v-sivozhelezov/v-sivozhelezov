@@ -17,4 +17,3 @@
 ## Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram&logoColor=#00BFFF)](https://t.me/iron_5584)
-[![Gmail](https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=#FF6347)<a href="mailto:sivozhelezov.v@gmail.com"></a>]
